@@ -1,2 +1,2 @@
 # my-programs
-Tge programs that i practised
+The programs that i practised
